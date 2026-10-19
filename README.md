@@ -1,13 +1,13 @@
 # РК1. Servlet — 14-нұсқа
 
-**Студент:** ______________________  **Топ:** __________
+**Студент:** Құсайын Тұрлан  **Топ:** Втипо Типо 25-11
 
 ## Тапсырма
 «Мәтін талдау» формасы: `textarea` ішіне мәтін енгізіледі, Servlet таңбалар санын және сөздер санын шығарады. Мәтін бос болса, «мәтін енгізілмеді» деп жазады.
 
 ## Файлдар
-- `src/main/webapp/index.html` — HTML форма
-- `src/main/java/kz/rk1/TextAnalyzerServlet.java` — Servlet коды
+- `index.html` — HTML форма
+- `TextAnalyzerServlet.java` — Servlet коды
 
 ## Іске қосу
 1. Eclipse (Dynamic Web Project) немесе IntelliJ IDEA-да жоба жасап, файлдарды орналастыру.
